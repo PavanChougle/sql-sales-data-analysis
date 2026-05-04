@@ -53,5 +53,3 @@ Analyzed most used payment methods.
 ## 🧰 Tools Used
 - MySQL Workbench
 - SQL (SELECT, GROUP BY, JOIN, CASE, AGGREGATE FUNCTIONS)
-
-## 📎 Project Structure
